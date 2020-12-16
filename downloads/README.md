@@ -2,7 +2,7 @@
 
 ## Gene Ontology
 
-+ [The human GO term annotation file](gene_ontology/goa_human.gaf) was downloaded from [Gene ontology](http://geneontology.org/gene-associations/goa_human.gaf.gz) on 08/20/2020.
++ [The human GO annotation file](gene_ontology/goa_human.gaf) was downloaded from [Gene ontology](http://geneontology.org/gene-associations/goa_human.gaf.gz) on 08/20/2020.
 
 ## Reactome
 

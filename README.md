@@ -29,3 +29,7 @@ Detailed documentation about the source dataset can be found [here](downloads/RE
 | Number of pathway invovled  | 12,205 |
 
 ## References
+
++ Gene Ontology Consortium. The gene ontology resource: 20 years and still GOing strong. Nucleic acids research. 2019 Jan 8;47(D1):D330-8.
+
++ Fabregat A, Jupe S, Matthews L, Sidiropoulos K, Gillespie M, Garapati P, Haw R, Jassal B, Korninger F, May B, Milacic M. The reactome pathway knowledgebase. Nucleic acids research. 2018 Jan 4;46(D1):D649-55.
