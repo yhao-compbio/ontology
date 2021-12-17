@@ -6,7 +6,4 @@
 
 ## Reactome
 
-+ [The pathway annotation file](reactome/UniProt2Reactome_All_Levels.txt), [the reaction annotation file](reactome/UniProt2ReactomeReactions.txt), and [the pathway relationship file](reactome/ReactomePathwaysRelation.txt) were downloaded from [Reactome](https://reactome.org/download-data) on 08/12/2019.
-
-
-  
++ [The pathway annotation file](reactome/UniProt2Reactome_All_Levels.txt), [the reaction annotation file](reactome/UniProt2ReactomeReactions.txt), and [the pathway relationship file](reactome/ReactomePathwaysRelation.txt) were downloaded from [Reactome](https://reactome.org/download-data) on 08/12/2019. [The root pathway file](reactome/root_pathways.txt) contains four largest general biological processes (pathway branches) in Reactome ontology hierarchy. 

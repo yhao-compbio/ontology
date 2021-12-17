@@ -1,0 +1,5 @@
+root_name	root_id
+gene_expression	R-HSA-74160
+immune_system	R-HSA-168256
+metabolism	R-HSA-1430728
+signal_transduction	R-HSA-162582
