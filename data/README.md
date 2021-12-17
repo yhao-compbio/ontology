@@ -4,10 +4,10 @@
 
 + [`feature/`](feature/) contains lists of features that comprise the input layer (layer 0) of DTox hierarchy. Two types of features were included in the folder: i) [MACSS fingerprints](feature/maccs_fingerprints.txt) and ii) [predicted target binding profile](feature/target_profile_from_maccs_fingerprints.txt)
 
-+ [`reactome/root/`](reactome/root/) contains processed root Reactome pathway files for constructing DTox hierarchy. [The mapping file](reactome/root/root_file_map.tsv) provides between the names of root pathway files and root pathway names/IDs. 
++ [`reactome/root/`](reactome/root/) contains processed root Reactome pathway files for constructing DTox hierarchy. [The mapping file](reactome/root_file_map.tsv) provides between the names of root pathway files and root pathway names/IDs. 
 
 + [`reactome/hierarchy/`](reactome/hierarchy/) contains processed Reactome data files for constructing DTox hierarchy. Name of each file represents the parameters employed to generate the dathe hierarchy
-  + 'rt': root pathway(s) included in the hierarchy (see [the mapping file](reactome/root/root_file_map.tsv) above for name mapping).  
+  + 'rt': root pathway(s) included in the hierarchy (see [the mapping file](reactome/root_file_map.tsv) above for name mapping).  
   + 'ps': minimal size of pathway included in the hierarchy (values: 5, 10, 20)
   + 're': whether to include Reactome reaction in the hierarchy (1: True; 0: False)
   + 'st': whether structure features are the input layer of hierarchy (1: True; 0: False)
